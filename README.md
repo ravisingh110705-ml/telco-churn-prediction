@@ -81,6 +81,10 @@ Python, pandas, scikit-learn, XGBoost, joblib
 
 While practicing regression around the same time, I worked with a house price dataset where correlation checks revealed the price column had no real relationship with any feature (max correlation ~0.05), later confirmed by both Linear Regression and Random Forest scoring negative R². Rather than force a model onto data with no genuine signal, I diagnosed the issue and moved to a properly structured housing dataset instead. Not every dataset is worth modeling — recognizing that early is part of the process.
 
+## Author
+
+Ravi Singh Bungla — [GitHub](https://github.com/ravisingh110705-ml) | [LinkedIn](your-linkedin-url-here)
+
 ## Other Projects
 - [Titanic Survival Prediction](https://github.com/ravisingh110705-ml/titanic-survival-prediction)
 - [Heart Disease Prediction](https://github.com/ravisingh110705-ml/heart-disease-prediction)
