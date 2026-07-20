@@ -84,4 +84,4 @@ While practicing regression around the same time, I worked with a house price da
 ## Other Projects
 - [Titanic Survival Prediction](https://github.com/ravisingh110705-ml/titanic-survival-prediction)
 - [Heart Disease Prediction](https://github.com/ravisingh110705-ml/heart-disease-prediction)
-- [Medical Insurance Cost Prediction](https://github.com/ravisingh110705-ml/medical-insurance-cost-prediction)a model onto data with no genuine signal, I diagnosed the issue and moved to a properly structured housing dataset instead. Not every dataset is worth modeling — recognizing that early is part of the process.
+- [Medical Insurance Cost Prediction](https://github.com/ravisingh110705-ml/medical-insurance-cost-prediction) a model onto data with no genuine signal, I diagnosed the issue and moved to a properly structured housing dataset instead. Not every dataset is worth modeling — recognizing that early is part of the process.
